@@ -11,13 +11,13 @@
 
 * [Anshul Dubey (2015A3PS309H)](https://github.com/Anshul2166-sophos)         
 
-* [Salil Jain (2015B3A3578G)](https://github.com/Salil-Jain)
+* [Salil Jain (2015B5A3587G)](https://github.com/Salil-Jain)
 
 ### Students of 
-### [BITS Pilani ]
-[BITS Pilani ]: <http://www.bits-pilani.ac.in/> 
+### [BITS Pilani University]
+[BITS Pilani University]: <http://www.bits-pilani.ac.in/> 
 
-Final Report submitted in partial fulfilment for Practice School I (BITS F221) under the guidance of
+[Final Report](https://github.com/him1411/ps1-project-eee-bsp/blob/master/final-report/final-repot.pdf) submitted in partial fulfilment for Practice School I (BITS F221) under the guidance of
 Mr. V.S. Dewangan
 Submitted to
 Prof. Ashutosh Bhatia
