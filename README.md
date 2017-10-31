@@ -1,6 +1,6 @@
  # PS 1 Project 
 
-## Study of the Electrical system of the new Power and Blowing Station II and Emergency calculations for power requirements in case of power failure
+## Study of the Electrical system of the new Power and Blowing Station II and Emergency calculations for power requirements in the case of power failure
 
 ### Created by 
 
@@ -21,5 +21,5 @@
 Mr. V.S. Dewangan.
 Submitted to
 Prof. Ashutosh Bhatia
-7th July 2017
+7th July 2017 
 
