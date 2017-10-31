@@ -18,7 +18,7 @@
 [BITS Pilani University]: <http://www.bits-pilani.ac.in/> 
 
 [Final Report](https://github.com/him1411/ps1-project-eee-bsp/blob/master/final-report/final-repot.pdf) submitted in partial fulfilment for Practice School I (BITS F221) under the guidance of
-Mr. V.S. Dewangan
+Mr. V.S. Dewangan.
 Submitted to
 Prof. Ashutosh Bhatia
 7th July 2017
