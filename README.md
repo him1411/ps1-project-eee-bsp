@@ -7,7 +7,6 @@
 * [Himanshu Gupta (2015A3PS339H)](https://github.com/him1411)
 
 * [Mihir Kumar (2015B3A3564H)](https://github.com/Mihir1996)
-  
 
 * [Anshul Dubey (2015A3PS309H)](https://github.com/Anshul2166-sophos)         
 
